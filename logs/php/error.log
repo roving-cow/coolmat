@@ -1,0 +1,62 @@
+[19-Jul-2023 22:28:21 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:22 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:39 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:39 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:46 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:46 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:47 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:47 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:47 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:47 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:48 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:49 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[19-Jul-2023 22:28:49 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\functions.php on line 146
+[31-Jul-2023 20:43:03 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:43:11 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:43:34 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:43:37 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:43:41 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:44:38 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:44:39 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:44:39 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:44:40 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:44:41 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:44:43 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:46:36 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:46:38 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:46:59 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:40 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:41 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:41 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:41 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:42 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:42 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:42 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 67
+[31-Jul-2023 20:47:59 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:47:59 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:48:00 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:48:00 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 68
+[31-Jul-2023 20:52:30 UTC] PHP Parse error:  syntax error, unexpected variable "$item_number" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\template-parts\content.php on line 9
+[04-Aug-2023 19:52:11 UTC] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 20
+[04-Aug-2023 23:14:31 UTC] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 62
+[05-Aug-2023 01:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotnent() in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php:52
+Stack trace:
+#0 C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Joyce ...')
+#2 C:\Users\Joyce Yang\Sites\coolmat\app\public\index.php(17): require('C:\\Users\\Joyce ...')
+#3 {main}
+  thrown in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 52
+[05-Aug-2023 01:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_conntent() in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php:52
+Stack trace:
+#0 C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Joyce ...')
+#2 C:\Users\Joyce Yang\Sites\coolmat\app\public\index.php(17): require('C:\\Users\\Joyce ...')
+#3 {main}
+  thrown in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 52
+[09-Aug-2023 17:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_category_description() in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php:63
+Stack trace:
+#0 C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Joyce ...')
+#2 C:\Users\Joyce Yang\Sites\coolmat\app\public\index.php(17): require('C:\\Users\\Joyce ...')
+#3 {main}
+  thrown in C:\Users\Joyce Yang\Sites\coolmat\app\public\wp-content\themes\coolmat\index.php on line 63
